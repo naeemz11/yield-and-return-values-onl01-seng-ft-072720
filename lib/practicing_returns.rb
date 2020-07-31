@@ -12,4 +12,3 @@ end
 
  hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
  
-puts hello(array)
